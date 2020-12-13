@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: Walkabout
+  ResourceGroup: Walkabout-func
 jobs:
   build:
     runs-on: ubuntu-latest
